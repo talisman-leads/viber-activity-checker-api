@@ -1,0 +1,6 @@
+# Your lists, the order state and the results stay on your machine.
+*.order.json
+results/
+.env
+__pycache__/
+node_modules/
